@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/stars/breno-sousa/keybine)](https://github.com/breno-sousa/keybine/stargazers)
 
 ## Introduction
-Keybine is an AutoHotKey script for Windows that provides  Vim-like hotkeys. These shortcuts are made by a combination of modifiers and keyboard letters. For example, the script's initial configuration allows one to use the keyboard arrows with the CapsLock modifier and the letters J, I, K, and L, hence eliminating the hassle of moving one's hand to the arrow area of the keyboard.
+Keybine is an AutoHotKey script for Windows that provides Vim-like hotkeys. These shortcuts are made by a combination of modifiers and keyboard letters. For example, the script's initial configuration allows one to use the keyboard arrows with the CapsLock modifier and the letters J, I, K, and L, hence eliminating the hassle of moving one's hand to the arrow area of the keyboard.
 
 ## Features
 Keybine comes with 30 hotkeys by default, however, new hotkeys may be added later. These are categorized into one-modifier (CapsLock) and two-modifier (CapsLock + Alt) commands. 
