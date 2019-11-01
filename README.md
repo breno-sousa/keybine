@@ -16,7 +16,7 @@ Keybine comes with 30 hotkeys by default, however, new hotkeys may be added late
 
 Please note that this script does not process text. All it does is set up shortcuts to keys.  Thus, certain commands may work differently depending on the program. You may adjust each function according to your needs.
 
-### One-modifier Commands
+### One-modifier commands
 | # | Combination | Function |
 | :- | :-: | :- |
 | 0 | CapsLock + j | Move left |
@@ -35,7 +35,7 @@ Please note that this script does not process text. All it does is set up shortc
 | 13 | CapsLock + BackSpace | Delete the next character |
 | 14 | CapsLock + p | Combine the current line with the next line |
 
-### Two-modifier
+### Two-modifier commands
 | # | Combination | Function |
 | :- | :-: | :-- |
 | 0 | CapsLock + Alt + j | Move left by n words (default: 1) |
