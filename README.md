@@ -1,10 +1,10 @@
 # Keybine
 
-[![](https://img.shields.io/github/release/brensio/keybine)](https://github.com/brensio/keybine/releases)
-[![](https://img.shields.io/github/license/brensio/keybine)](https://github.com/brensio/keybine/blob/master/LICENSE)
-[![](https://img.shields.io/github/issues/brensio/keybine)](https://github.com/brensio/keybine/issues)
-[![](https://img.shields.io/github/forks/brensio/keybine)](https://github.com/brensio/keybine/network/members)
-[![](https://img.shields.io/github/stars/brensio/keybine)](https://github.com/brensio/keybine/stargazers)
+[![](https://img.shields.io/github/downloads/brensio/keybine/v1.0.0/total?style=for-the-badge)](https://github.com/brensio/keybine/releases)
+[![](https://img.shields.io/github/license/brensio/keybine?style=for-the-badge)](https://github.com/brensio/keybine/blob/master/LICENSE)
+[![](https://img.shields.io/github/issues/brensio/keybine?style=for-the-badge)](https://github.com/brensio/keybine/issues)
+[![](https://img.shields.io/github/forks/brensio/keybine?style=for-the-badge)](https://github.com/brensio/keybine/network/members)
+[![](https://img.shields.io/github/stars/brensio/keybine?style=for-the-badge)](https://github.com/brensio/keybine/stargazers)
 
 ## Introduction
 Keybine is an AutoHotKey script for Windows that provides Vim-like hotkeys. These shortcuts are made by a combination of modifiers and keyboard letters. For example, the script's initial configuration allows one to use the keyboard arrows with the CapsLock modifier and the letters J, I, K, and L, hence eliminating the hassle of moving one's hand to the arrow area of the keyboard.
